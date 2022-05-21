@@ -1,12 +1,15 @@
 <template>
-  <div>
-    <h1>Hello, Welcome ALittleShare.</h1>
-    <h2>Coming soon...</h2>
-  </div>
+  <title-menu />
 </template>
 
 <script>
+import TitleMenu from "@/components/TitleMenu";
 export default {
-  name: 'index_home',
+  name: "IndexMain",
+  components: {TitleMenu}
 }
 </script>
+
+<style scoped>
+
+</style>

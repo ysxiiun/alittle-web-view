@@ -1,0 +1,35 @@
+.center {
+    text-align: center;
+    align-content: center;
+}
+
+.fr {
+    float: right;
+}
+
+.fl {
+    float: left;
+}
+
+.nbd {
+    border: 0;
+}
+
+.xhx {
+    border-bottom: solid 1px #bbbbbb;
+}
+
+.content_size {
+    max-width: 1500px;
+}
+
+.flex_bt {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.font_alt {
+    font-family: Helvetica Neue,Helvetica,PingFang SC,Hiragino Sans GB,Microsoft YaHei,\5fae\8f6f\96c5\9ed1,Arial,sans-serif;
+    font-size: 15px;
+}

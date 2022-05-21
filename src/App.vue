@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="font_alt" style="box-sizing: border-box">
     <router-view></router-view>
   </div>
 </template>
@@ -11,8 +11,5 @@
 </script>
 
 <style>
-#app {
-  align-content: center;
-  text-align: center;
-}
+
 </style>
